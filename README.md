@@ -16,3 +16,5 @@ Natalie Novitsky\\
 -Dots that represent each student pulse colors @ bpm
 -Have multiple modes of play: (1) point oriented (2) free style
 
+# google doc
+https://docs.google.com/document/d/12oPTF6ETvf1KgXKnQ_SgiNZ1owcI1Mdzl-vsL9lfuAs/edit
