@@ -15,3 +15,4 @@ Natalie Novitsky\\
 -Live music DJing during the activity
 -Dots that represent each student pulse colors @ bpm
 -Have multiple modes of play: (1) point oriented (2) free style
+
