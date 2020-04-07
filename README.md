@@ -1,7 +1,8 @@
-# Team Opportunity Members
-Natalia Androsz
-Dima Fayyad
-Tanvi Pabby
-Carrie Hunner
-Harry Ross
-natalie novitsky
+# Team Opportunity Members\\
+Natalia Androsz\\
+Dima Fayyad\\
+Aditya Mathur\\
+Tanvi Pabby\\
+Carrie Hunner\\
+Harry Ross\\
+Natalie Novitsky\\
