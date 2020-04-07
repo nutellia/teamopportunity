@@ -1,4 +1,7 @@
 # Team Opportunity Members
 Natalia Androsz
-Harry Ross
 Dima Fayyad
+Dima Fayyad
+Tanvi Pabby
+Carrie Hunner
+Harry Ross
